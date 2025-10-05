@@ -1,0 +1,28 @@
+{
+  "tareas": [
+    {
+      "id": "1",
+      "texto": "Aprender a renderizar listas",
+      "completada": false,
+      "animate": "pulse"
+    },
+    {
+      "id": "2",
+      "texto": "Aprender a levantar el estado",
+      "completada": false,
+      "animate": "pulse"
+    },
+    {
+      "id": "76b9",
+      "texto": "tarea 1",
+      "completada": true,
+      "animate": "pulse"
+    },
+    {
+      "id": "a914",
+      "texto": "tarea 2",
+      "completada": false,
+      "animate": "enter"
+    }
+  ]
+}
