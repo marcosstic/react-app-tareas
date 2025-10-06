@@ -73,7 +73,6 @@ Asegúrate de que ambos comandos (`npm run server` y `npm run dev`) se ejecuten 
 ## Captura de Pantalla
 
 ![Captura de pantalla de la aplicación de tareas](screenshot.webp)
-*(Nota: Deberás añadir la imagen `screenshot.webp` a la raíz de tu repositorio de GitHub después de generar este README.)*
 
 ## Posibles Mejoras
 
